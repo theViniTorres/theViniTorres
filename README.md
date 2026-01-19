@@ -14,17 +14,20 @@ Sou um estudante de tecnologia focado em me tornar um especialista no ecossistem
 - **Plataforma:** Salesforce (Sales Cloud, Service Cloud)
 - **Desenvolvimento:** Apex, SOQL, JavaScript, HTML/TailWindCSS
 - **Low-Code:** Flows, App Builder, Validation Rules
-- **Outros interesses:** Integrações (MuleSoft), Metodologias Ágeis e CRM Strategy
+- **Outros interesses:** Integrações (MuleSoft), Metodologias Ágeis e CRM Strategy, Dev em (Python, C++), Aprendendo TypeScript e Java
 -  (Em expansão...)
 
 ---
 
 ### 🏆 Trailhead e Formações
 - 
-- UFPE, Engenharia de Telecomunicações, 2023.1
+- UFPE, Engenharia de Telecomunicações, 2023.1 [Entrada]
+- (Em expansão...)
 
 ---
 
 ### Contatos
+Para propostas de estágio ou troca de conhecimentos sobre Salesforce:
+
 - **LinkedIn:** linkedin.com/in/vinicius-silveira-877a811bb
 - **Email:** ajjso83@gmail.com
