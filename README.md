@@ -28,6 +28,6 @@ Sou um estudante de tecnologia focado em me tornar um especialista no ecossistem
 ### Contatos
 Para propostas de estágio ou troca de conhecimentos sobre Salesforce:
 
-- **LinkedIn:** linkedin.com/in/vinicius-silveira-877a811bb
 - **Email:** ajjso83@gmail.com
+- **LinkedIn:** linkedin.com/in/vinicius-silveira-877a811bb
 - **SalesForce Trailblazer:** salesforce.com/trailblazer/o7qml795afsvzj2k45
