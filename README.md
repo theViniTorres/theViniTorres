@@ -2,7 +2,7 @@
 
 ### ☁️ Estagiário Salesforce | Entusiasta de Cloud Business Applications 
 
-Sou um estudante de tecnologia focado em me tornar um especialista no ecossistema **Salesforce**. Tenho interesse por como a tecnologia pode transformar processos de negócios e melhorar o relacionamento entre empresas e clientes através de soluções **SaaS**.
+Sou um estudante de tecnologia focado em me tornar um especialista no ecossistema **Salesforce**. Tenho interesse na maneira com que a tecnologia pode transformar processos de negócios e melhorar o relacionamento entre empresas e clientes através de soluções **SaaS**.
 
 - 🎯 Tenho como meta aprofundar meus conhecimentos em **Apex**, **LWC (Lightning Web Components)** e automações declarativas (**Flows**), dentre outra tecnologias. Em especial, busco estudar como o Salesforce se posiciona frente a outras soluções enterprise (como Microsoft Dynamics e HubSpot) e como ele se integra a sistemas de **ERP** e **Marketing Automation**.
 
