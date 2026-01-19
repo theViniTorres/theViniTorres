@@ -20,7 +20,6 @@ Sou um estudante de tecnologia focado em me tornar um especialista no ecossistem
 ---
 
 ### 🏆 Trailhead e Formações
-- 
 - UFPE, Engenharia de Telecomunicações, 2023.1 [Entrada]
 - (Em expansão...)
 
@@ -31,3 +30,4 @@ Para propostas de estágio ou troca de conhecimentos sobre Salesforce:
 
 - **LinkedIn:** linkedin.com/in/vinicius-silveira-877a811bb
 - **Email:** ajjso83@gmail.com
+- **SalesForce Trailblazer:** salesforce.com/trailblazer/o7qml795afsvzj2k45
