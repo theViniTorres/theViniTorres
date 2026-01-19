@@ -1,16 +1,30 @@
-## Hi there 👋
+# Saudações👋
 
-<!--
-**theViniTorres/theViniTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Estagiário Salesforce | Entusiasta de Cloud Business Applications 
 
-Here are some ideas to get you started:
+Sou um estudante de tecnologia focado em me tornar um especialista no ecossistema **Salesforce**. Tenho interesse por como a tecnologia pode transformar processos de negócios e melhorar o relacionamento entre empresas e clientes através de soluções **SaaS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Tenho como meta aprofundar meus conhecimentos em **Apex**, **LWC (Lightning Web Components)** e automações declarativas (**Flows**), dentre outra tecnologias. Em especial, busco estudar como o Salesforce se posiciona frente a outras soluções enterprise (como Microsoft Dynamics e HubSpot) e como ele se integra a sistemas de **ERP** e **Marketing Automation**.
+
+- 🚀 Acima de tudo, busco conquistar minha primeira oportunidade como **Estagiário Salesforce** para aplicar meu conhecimento técnico em desafios reais.
+
+---
+
+### 🛠️ Ferramentas e Tecnologias
+- **Plataforma:** Salesforce (Sales Cloud, Service Cloud)
+- **Desenvolvimento:** Apex, SOQL, JavaScript, HTML/TailWindCSS
+- **Low-Code:** Flows, App Builder, Validation Rules
+- **Outros interesses:** Integrações (MuleSoft), Metodologias Ágeis e CRM Strategy
+-  (Em expansão...)
+
+---
+
+### 🏆 Trailhead e Formações
+- 
+- UFPE, Engenharia de Telecomunicações, 2023.1
+
+---
+
+### Contatos
+- **LinkedIn:** linkedin.com/in/vinicius-silveira-877a811bb
+- **Email:** ajjso83@gmail.com
